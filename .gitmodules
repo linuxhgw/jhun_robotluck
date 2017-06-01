@@ -1,0 +1,3 @@
+[submodule "themes/hexo-theme-mexo"]
+	path = themes/hexo-theme-mexo
+	url = https://github.com/ManerFan/hexo-theme-mexo.git
