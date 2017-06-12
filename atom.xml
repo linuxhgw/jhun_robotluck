@@ -5,7 +5,7 @@
   <link href="/jhun_robotluck/atom.xml" rel="self"/>
   
   <link href="http://gomi1992.github.io/jhun_robotluck/"/>
-  <updated>2017-06-12T04:50:54.545Z</updated>
+  <updated>2017-06-12T07:15:39.427Z</updated>
   <id>http://gomi1992.github.io/jhun_robotluck/</id>
   
   <author>
@@ -14,6 +14,43 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2017.06.15集中</title>
+    <link href="http://gomi1992.github.io/jhun_robotluck/2017/06/12/2017-06-12.2017.06.15%E9%9B%86%E4%B8%AD/"/>
+    <id>http://gomi1992.github.io/jhun_robotluck/2017/06/12/2017-06-12.2017.06.15集中/</id>
+    <published>2017-06-12T07:14:29.000Z</published>
+    <updated>2017-06-12T07:15:39.427Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="集中内容"><a href="#集中内容" class="headerlink" title="集中内容"></a>集中内容</h1><h2 id="汇报"><a href="#汇报" class="headerlink" title="汇报"></a>汇报</h2><table>
+<thead>
+<tr>
+<th>序号</th>
+<th>汇报人</th>
+<th>汇报题目</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h3 id="汇报简介"><a href="#汇报简介" class="headerlink" title="汇报简介"></a>汇报简介</h3>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;集中内容&quot;&gt;&lt;a href=&quot;#集中内容&quot; class=&quot;headerlink&quot; title=&quot;集中内容&quot;&gt;&lt;/a&gt;集中内容&lt;/h1&gt;&lt;h2 id=&quot;汇报&quot;&gt;&lt;a href=&quot;#汇报&quot; class=&quot;headerlink&quot; title=&quot;汇报&quot;&gt;&lt;/a&gt;汇报&lt;/h
+    
+    </summary>
+    
+      <category term="集中" scheme="http://gomi1992.github.io/jhun_robotluck/categories/%E9%9B%86%E4%B8%AD/"/>
+    
+    
+      <category term="集中" scheme="http://gomi1992.github.io/jhun_robotluck/tags/%E9%9B%86%E4%B8%AD/"/>
+    
+  </entry>
   
   <entry>
     <title>example</title>
@@ -56,10 +93,10 @@ python tools/apply_theme.py
     uend=>end: 结束
     uop01->uop02->uop03->uend
     {% endflowchart %}
-</code></pre><p>效果：<br><div class="diagram" id="flowchart_7479"><span>Flowchart Diagram will be placed here</span></div>
+</code></pre><p>效果：<br><div class="diagram" id="flowchart_1019"><span>Flowchart Diagram will be placed here</span></div>
 <script type="text/x-diagram-config">
   (function($){
-    flowchart.parse('uop01=>start: user应用程序读取按键\nuop02=>operation: 睡眠等待中断唤醒\nuop03=>operation: 返回给user\nuend=>end: 结束\nuop01->uop02->uop03->uend').drawSVG('flowchart_7479');
+    flowchart.parse('uop01=>start: user应用程序读取按键\nuop02=>operation: 睡眠等待中断唤醒\nuop03=>operation: 返回给user\nuend=>end: 结束\nuop01->uop02->uop03->uend').drawSVG('flowchart_1019');
   })(jQuery);
 </script></p>
 <p>更详细的请看：<a href="http://manerfan.com/2016/11/24/hexo-tags-diagram/" target="_blank" rel="external">http://manerfan.com/2016/11/24/hexo-tags-diagram/</a></p>
