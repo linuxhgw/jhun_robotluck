@@ -5,7 +5,7 @@
   <link href="/jhun_robotluck/atom.xml" rel="self"/>
   
   <link href="http://gomi1992.github.io/jhun_robotluck/"/>
-  <updated>2017-06-12T07:15:39.427Z</updated>
+  <updated>2017-06-12T08:06:17.467Z</updated>
   <id>http://gomi1992.github.io/jhun_robotluck/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://gomi1992.github.io/jhun_robotluck/2017/06/12/2017-06-12.2017.06.15%E9%9B%86%E4%B8%AD/"/>
     <id>http://gomi1992.github.io/jhun_robotluck/2017/06/12/2017-06-12.2017.06.15集中/</id>
     <published>2017-06-12T07:14:29.000Z</published>
-    <updated>2017-06-12T07:15:39.427Z</updated>
+    <updated>2017-06-12T08:06:17.467Z</updated>
     
     <content type="html"><![CDATA[<h1 id="集中内容"><a href="#集中内容" class="headerlink" title="集中内容"></a>集中内容</h1><h2 id="汇报"><a href="#汇报" class="headerlink" title="汇报"></a>汇报</h2><table>
 <thead>
@@ -32,12 +32,26 @@
 </thead>
 <tbody>
 <tr>
-<td></td>
-<td></td>
+<td>01</td>
+<td>胡高伟</td>
+<td>python的基础</td>
+</tr>
+<tr>
+<td>02</td>
+<td>常子远</td>
+<td>计算机组成原理的复习</td>
+</tr>
+<tr>
+<td>03</td>
+<td>余子衡</td>
+<td>kinect的基本原理</td>
 </tr>
 </tbody>
 </table>
-<h3 id="汇报简介"><a href="#汇报简介" class="headerlink" title="汇报简介"></a>汇报简介</h3>]]></content>
+<h3 id="汇报简介"><a href="#汇报简介" class="headerlink" title="汇报简介"></a>汇报简介</h3><h4 id="胡高伟-python的基础"><a href="#胡高伟-python的基础" class="headerlink" title="胡高伟-python的基础"></a>胡高伟-python的基础</h4><p>很简单的Python，函数，模块<br>好像没有了<br>真 的</p>
+<h4 id="常子远-备考复习"><a href="#常子远-备考复习" class="headerlink" title="常子远-备考复习"></a>常子远-备考复习</h4><p>快要考试了，我选择复习</p>
+<h4 id="余子衡-kinect基础"><a href="#余子衡-kinect基础" class="headerlink" title="余子衡-kinect基础"></a>余子衡-kinect基础</h4><p>简单介绍kinect的原理</p>
+]]></content>
     
     <summary type="html">
     
@@ -93,10 +107,10 @@ python tools/apply_theme.py
     uend=>end: 结束
     uop01->uop02->uop03->uend
     {% endflowchart %}
-</code></pre><p>效果：<br><div class="diagram" id="flowchart_1019"><span>Flowchart Diagram will be placed here</span></div>
+</code></pre><p>效果：<br><div class="diagram" id="flowchart_2119"><span>Flowchart Diagram will be placed here</span></div>
 <script type="text/x-diagram-config">
   (function($){
-    flowchart.parse('uop01=>start: user应用程序读取按键\nuop02=>operation: 睡眠等待中断唤醒\nuop03=>operation: 返回给user\nuend=>end: 结束\nuop01->uop02->uop03->uend').drawSVG('flowchart_1019');
+    flowchart.parse('uop01=>start: user应用程序读取按键\nuop02=>operation: 睡眠等待中断唤醒\nuop03=>operation: 返回给user\nuend=>end: 结束\nuop01->uop02->uop03->uend').drawSVG('flowchart_2119');
   })(jQuery);
 </script></p>
 <p>更详细的请看：<a href="http://manerfan.com/2016/11/24/hexo-tags-diagram/" target="_blank" rel="external">http://manerfan.com/2016/11/24/hexo-tags-diagram/</a></p>
